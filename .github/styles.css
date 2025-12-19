@@ -1,5 +1,17 @@
-body {background-color: rgb(165, 122, 122);}
-footer 
-{alignment: center
-    font color: snow, #fffafa
+body {background-color: #bddb39}
+header {
+  background-color: #12923c;
+  text-align: center;
+  font-size: 35px;
+  color: #79db39;
 }
+ footer {
+  background-color: #12923c;
+  padding: 10px;
+  text-align: center;
+  color: white;}
+
+  main {
+  background-color: #a5db82
+  
+  }
